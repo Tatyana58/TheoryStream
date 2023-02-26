@@ -16,5 +16,6 @@ public class Test4 {
         Optional<String> mappedOptional2 = optional.map(v -> v.toString());
         System.out.println(mappedOptional2);
 
+
     }
 }
