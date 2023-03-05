@@ -34,6 +34,7 @@ public class Stream {
         elements.add("C");
         elements.add("A");
         elements.add("E");
+        elements.add("E");
 
         // Создадим стрим для элементов
         ArrayList<String> sortedElements = elements.stream()

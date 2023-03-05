@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 public class Test1 {
     public static void main(String[] args) {
 
-        int THRESHOLD = 5;
+        int THRESHOLD = 3;
 
         // Создаем лист со значениями
         List<Integer> someList = Arrays.asList(1, 2, 3, 4, 5, 6, 0, 9, 4, null);
